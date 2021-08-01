@@ -9,9 +9,9 @@ git config ―global user.email “メールアドレス”
 > ローカルレポジトリを作成
 >> mkdir ファイル名
 
-cd ファイル名
+>> cd ファイル名
 
-git init
+>> git init
 
 > ローカルレポジトリにファイルの変更点を追加
 >> git add ファイル名
