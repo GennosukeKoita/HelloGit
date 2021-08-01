@@ -3,8 +3,10 @@
 
 ## gitの初期設定
 > ユーザ名を設定
-git config —global user.name “ユーザ名”
-git config ―global user.email “メールアドレス”
+
+>> git config —global user.name “ユーザ名”
+
+>>git config ―global user.email “メールアドレス”
 
 > ローカルレポジトリを作成
 >> mkdir ファイル名
